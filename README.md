@@ -4,6 +4,8 @@
 
 Demos realizadas durante a palestra na Meetup: .NET Caxias do Sul.
 
+A apresentação da palestra encontra-se AQUI[https://pt.slideshare.net/GlauciaLemos/apresentao-introduo-typescript-net-caxias-do-sul]
+
 ### Configuração do Ambiente de Desenvolvimento:
 
 Se você optar em usar o Visual Studio Code, será bem simples de configurar o ambiente.
